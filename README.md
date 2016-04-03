@@ -233,8 +233,8 @@ main =
 Create an interactive application
 ---------------------------------
 
-`StartApp` is Elm's simple framework for helping you to easily make things interactive. It listens for changes to the user interface, updates the model with those changes, and then displays a new view that reflects those changes.
-Here's one of the simplest interactive applications you can make
+`StartApp` is Elm's simple framework for helping you to easily make things interactive. It listens for changes to the user interface, updates the application model with those changes, and then displays a new view (what you see on-screen) that reflects those changes.
+Here's one of the simplest interactive applications you can make.
 
 ```
 import Html.Attributes exposing (..)
