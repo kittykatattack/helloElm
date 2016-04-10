@@ -14,6 +14,10 @@ And a few more good introductory talks:
 https://youtu.be/FV0DXNB94NE
 https://youtu.be/txxKx_I39a8
 
+And an excellent practical introduction to Elm coding and its benefits:
+
+https://youtu.be/3_M2G9U51GA
+
 You can try out Elm programming here:
 
 http://elm-lang.org/try
